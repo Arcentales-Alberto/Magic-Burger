@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ingredientes/base de pan.jpg</file>
+        <file>Ingredientes/disco central del pan.jpg</file>
+        <file>Ingredientes/feta de queso.jpg</file>
+        <file>Ingredientes/hamburguesa de carne.jpg</file>
+        <file>Ingredientes/hamburguesa de pescado.jpg</file>
+        <file>Ingredientes/hamburguesa de pollo.jpg</file>
+        <file>Ingredientes/huevo frito.jpg</file>
+        <file>Ingredientes/porcion de lechuga picada.jpg</file>
+        <file>Ingredientes/porcion de papas fritas.jpg</file>
+        <file>Ingredientes/porcion de pepinos en conserva.jpg</file>
+        <file>Ingredientes/porcion de salsa catsup.jpg</file>
+        <file>Ingredientes/porcion de salsa de mayonesa.jpg</file>
+        <file>Ingredientes/porcion de tomate picado.jpg</file>
+        <file>Ingredientes/tope de pan.jpg</file>
+        <file>Ingredientes/vaso con gaseosa.jpg</file>
+        <file>Ingredientes/porcion de cebolla picada.jpg</file>
+    </qresource>
+</RCC>
