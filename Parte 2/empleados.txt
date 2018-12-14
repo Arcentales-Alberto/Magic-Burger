@@ -1,0 +1,12 @@
+sandra
+1
+gerente
+*
+fel
+2
+repositor
+*
+diana
+3
+expendedor
+*

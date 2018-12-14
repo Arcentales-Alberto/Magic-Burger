@@ -1,0 +1,80 @@
+Tope de pan 
+10001
+48
+$10
+*
+Disco central de pan 
+10002
+50
+$24
+*
+Base de pan
+10003 
+50
+$22
+*
+Hamburguesa de carne 
+10004
+50
+$23
+*
+Hamburguesa de pollo 
+10005
+48
+$24
+*
+Hamburguesa de pescado 
+10006
+50
+$22
+*
+Huevo frito 
+10007
+48
+$22
+*
+Feta de queso 
+10008
+50
+$22
+*
+Porcion de tomate picado 
+10009
+48
+$77
+*
+Porcion de lechuga picada 
+10010
+50
+$77
+*
+Porcion de cebolla picada
+10011
+48
+$23
+* 
+Porcion de pepinos en conserva 
+10012
+49
+$22
+*
+Porcion de salsa mayonesa 
+10013
+49
+$27
+*
+Porcion de salsa catsup 
+10014
+48
+$44
+*
+Porcion de papas fritas 
+10015
+48
+$34
+*
+Vaso de gaseosa 
+10016
+48
+$44
+*
